@@ -25,4 +25,4 @@ spec:
               name: minio-config        
         env:
           - name: COS_ENDPOINT
-            value: 'ibm-lh-lakehouse-minio-svc.cpd.svc.cluster.local:9000'              
+            value: 'ibm-lh-lakehouse-minio-svc.cp4d.svc.cluster.local:9000'              
