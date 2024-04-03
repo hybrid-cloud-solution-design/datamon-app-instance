@@ -5,3 +5,4 @@ flask==2.2.5
 papermill==2.4.0
 gunicorn==21.2.0
 minio
+pyhive[presto]==0.7.0

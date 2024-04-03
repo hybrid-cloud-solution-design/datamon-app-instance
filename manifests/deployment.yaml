@@ -23,6 +23,9 @@ spec:
         envFrom:
           - secretRef:
               name: minio-config        
+        envFrom:
+          - secretRef:
+              name: lh-config                 
         env:
           - name: COS_ENDPOINT
             value: 'ibm-lh-lakehouse-minio-svc.cp4d.svc.cluster.local:9000'              
