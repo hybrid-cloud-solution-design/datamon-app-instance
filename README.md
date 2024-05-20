@@ -1,2 +1,2 @@
 # datamon-app-template
-template repo for data monetization demo
+Sample ESG REST services

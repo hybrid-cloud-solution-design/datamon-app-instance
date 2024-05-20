@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2024
+# 
+
 import datetime
 import logging
 import json
